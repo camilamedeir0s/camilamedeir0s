@@ -2,7 +2,7 @@
 
 Meu nome é Camila Medeiros, sou estudante de Análise e Desenvolvimento de Sistemas. Trabalho com desenvolvimento back-end e estou em busca de constante evolução na área.
 
-<div style="display:flex; flex-direction: row">
+<div style="display:flex; flex-direction: row; justify-content: center; align-items: center"">
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=camilamedeir0s&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
