@@ -1,8 +1,8 @@
-### Oie! 👋
+## Oie! 👋
 
-Meu nome é Camila Medeiros, sou estudante de Análise e Desenvolvimento de Sistemas. Trabalho com desenvolvimento back-end e estou em constante evolução na área, sempre buscando aprender mais.
+Meu nome é Camila Medeiros, sou estudante do 3º semestre de Análise e Desenvolvimento de Sistemas. Trabalho com desenvolvimento back-end e estou em constante evolução na área, sempre buscando aprender mais.
 
-##
+<br>
 
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
