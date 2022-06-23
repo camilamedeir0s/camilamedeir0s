@@ -2,12 +2,13 @@
 
 Meu nome é Camila Medeiros, sou estudante de Análise e Desenvolvimento de Sistemas. Trabalho com desenvolvimento back-end e estou em busca de constante evolução na área.
 
-<div style="display: inline_block">
-
-
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=camilamedeir0s&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camilamedeir0s&theme=midnight-purple&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="[https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats](https://github-readme-stats.vercel.app/api?username=camilamedeir0s&show_icons=true&theme=midnight-purple)" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img align="center" src="[https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat](https://github-readme-stats.vercel.app/api/top-langs/?username=camilamedeir0s&theme=midnight-purple&show_icons=true)" />
+  </a>
   
 </div>
 
