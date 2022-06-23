@@ -1,6 +1,6 @@
 ### Oie! 👋
 
-Meu nome é Camila Medeiros, sou estudante de Análise e Desenvolvimento de Sistemas. Trabalho com desenvolvimento back-end e estou em busca de constante evolução na área.
+<p> Meu nome é Camila Medeiros, sou estudante de Análise e Desenvolvimento de Sistemas. Trabalho com desenvolvimento back-end e estou em busca de constante evolução na área. <p>
 
 <div style="display:flex; flex-direction: row">
 
