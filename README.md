@@ -1,8 +1,8 @@
 ### Oie! 👋
 
-<p> Meu nome é Camila Medeiros, sou estudante de Análise e Desenvolvimento de Sistemas. Trabalho com desenvolvimento back-end e estou em busca de constante evolução na área. <p>
+Meu nome é Camila Medeiros, sou estudante de Análise e Desenvolvimento de Sistemas. Trabalho com desenvolvimento back-end e estou em busca de constante evolução na área.
 
-<div style="display:flex; flex-direction: row">
+<div style="display: inline_block">
 
 
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=camilamedeir0s&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
