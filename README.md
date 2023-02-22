@@ -1,6 +1,8 @@
 ## Oie! 👋
 
-Meu nome é Camila Medeiros, sou estudante do 3º semestre de Análise e Desenvolvimento de Sistemas. Trabalho com desenvolvimento back-end e estou em constante aprendizado na área. Atualmente concentro meus estudos em Node.js com MongoDB e PostgreSQL.
+Meu nome é Camila Medeiros, estou no 4º semestre de Análise e Desenvolvimento de Sistemas.
+Tenho experiência com desenvolvimento back-end em Node.js juntamente com as tecnologias MongoDB e PostgreSQL.
+Atualmente sou estagiária em DevOps concentro meus estudos em computação em nuvem e nas ferramentas Docker, Kubernetes e Terraform.
 
 <br>
 
