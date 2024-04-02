@@ -1,8 +1,9 @@
 ## Oie! 👋
 
-Meu nome é Camila Medeiros, estou no 5º semestre de Análise e Desenvolvimento de Sistemas.<br>
+Meu nome é Camila Medeiros, sou mestranda em Informática Aplicada e graduada em Análise e Desenvolvimento de Sistemas.<br>
 Tenho experiência com desenvolvimento back-end com as tecnolocias Node.js, MongoDB e PostgreSQL.<br>
-Atualmente sou DevOps Engineer e concentro meus estudos em AWS, Kubernetes e Terraform.
+Também possuo experiência com infraestrutura em nuvem com AWS, Kubernetes e Terraform.
+Atualmente atuo Analista de Tecnologia, com atividades de DevOps e de Desenvolvimento Back-end com Java Spring.
 
 <br>
 
