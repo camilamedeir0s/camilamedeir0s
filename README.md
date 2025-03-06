@@ -1,9 +1,9 @@
 ## Oie! 👋
 
 Meu nome é Camila Medeiros, sou mestranda em Informática Aplicada e graduada em Análise e Desenvolvimento de Sistemas.<br>
-Tenho experiência com desenvolvimento back-end com as tecnolocias Node.js, MongoDB e PostgreSQL.<br>
-Também possuo experiência com infraestrutura em nuvem com AWS, Kubernetes e Terraform.<br>
-Atualmente atuo Analista de Tecnologia, com atividades de DevOps e de Desenvolvimento Back-end com Java Spring.
+Foco meus estudos em Desenvolvimento Back-end, práticas DevOps, Linux e Desempenho de Aplicações (incluindo testes e monitoramento).<br>
+Tenho muito interesse pela área de infraestrutura em nuvem e possuo experiência com AWS, Kubernetes e Terraform.<br>
+Atualmente atuo Analista de Tecnologia no Serviço Federal de Processamento de Dados (Serpro), focada em atividades de CI/CD, monitoramento de aplicações e Desenvolvimento Back-end em Java Spring Boot.
 
 <br>
 
